@@ -1,4 +1,4 @@
-FROM cloudbees/java-build-tools
+FROM ajurasz/java-build-tools:0.0.1
 
 USER root
 
