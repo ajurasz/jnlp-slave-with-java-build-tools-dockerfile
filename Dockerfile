@@ -1,4 +1,4 @@
-FROM ajurasz/java-build-tools:0.0.1
+FROM ajurasz/java-build-tools
 
 USER root
 
